@@ -1,0 +1,11 @@
+{
+  "name": "API",
+  "description": "Unofficial API .",
+  "keywords": [
+    "flask",
+    "python",
+    "gaana",
+    "music"
+  ],
+  "repository": "https://github.com/AloneQueen/WebStack-Screenshot"
+}
